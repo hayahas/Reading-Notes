@@ -16,6 +16,8 @@ _Italic_
 ~~This was mistake~~
 
 #SQL
+
+
 ![Alt text](image.png)
 
 ![Alt text](image-1.png)
@@ -39,3 +41,18 @@ _Italic_
 ![Alt text](image-10.png)
 
 ![Alt text](image-11.png)
+
+
+#Terminal
+
+learned some new commands :
+
+pwd - > Where am I in the system.
+file [path]
+mkdir -> Create a directory
+rmkdir -> remove a directory
+touch -> create a file
+head-> Show the first n lines.
+tail-> Show the last n lines.
+CTRL + C -> stop running
+. -> ref for the current file 
