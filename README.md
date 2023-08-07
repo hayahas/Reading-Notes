@@ -12,7 +12,7 @@ _Italic_
 
 ~~This was mistake~~
 
-- [SQL ](/README_SQL.md)
+- [SQL ](/README%20_SQL.md)
 
 - [Terminal](/README_TERMINAL.md)
 
