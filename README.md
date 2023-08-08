@@ -12,12 +12,15 @@ _Italic_
 
 ~~This was mistake~~
 
-- [SQL ](/README_SQL.md)
+- [SQL ](/README%20_SQL.md)
 
 - [Terminal](/README_TERMINAL.md)
 
+- [The Growth Mindset ](/README_MINDSET.md)
+ 
+
 ## Reading : 
-|  [Class 01](/README_CLASS01.md) | [Class 02](/README_CLASS02.md) |
-| ------- | ------ |
+|  [Class 01](/README_CLASS01.md) | [Class 02](/README_CLASS02.md) | [Class 03](/README_CLASS03.md)
+| ------- | ------ | ----- |
 
 
