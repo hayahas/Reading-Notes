@@ -19,7 +19,8 @@ _Italic_
 - [The Growth Mindset](/README_MINDSET.md)
 
 ## Reading : 
-|  [Class 01](/README_CLASS01.md) | [Class 02](/README_CLASS02.md) | [Class 03](/README_CLASS03.md)
-| ------- | ------ | ----- |
+
+|  [Class 01](/README_CLASS01.md) | [Class 02](/README_CLASS02.md) | [Class 03](/README_CLASS03.md) | [Class 04](/README_CLASS04.md) |
+| ------- | ------ | ----- | ------ |
 
 
