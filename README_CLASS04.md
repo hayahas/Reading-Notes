@@ -3,6 +3,7 @@
 1-Explain the difference between an object and a class.
 
 - An object is a specific instance of a class that encapsulates both state (data) and behavior (methods) A class is a blueprint or template for creating objects.
+
 ---
 
 2-Name two types of state that a Student object might have.
