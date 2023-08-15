@@ -28,16 +28,7 @@
 
 5-Write the declaration statement for a class named “Student” (do not fill it with fields and methods).
 
-- public class Student {
-    public String name;
-    public String class;
-    public int age;
-
-    public Student( String name, String class, int age) {
-        name = this.name;
-        class = this.class;
-        age = this.age;
-    }}
+- public class Student {}
 
 ---
 
