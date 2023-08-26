@@ -1,6 +1,6 @@
 1- Are there any projects that you’ve built during your time at Code Fellows (or prior) which could benefit from applying the Rule of Three to DRY up your code?
 
-- Well no i dont think so 
+- Last week projects yes
 
 ---
 
