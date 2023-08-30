@@ -1,4 +1,5 @@
  # Stack And Queues Cheat Sheet
+ 
 
 ## Stack:
 ---
@@ -15,7 +16,8 @@ Stack Operations:
 - Peek/Top: Returns the element from the top without removing it.
 - isEmpty: Checks if the stack is empty.
 - Size: Returns the number of elements in the stack.
-Applications:
+
+
 
 
 ## Queue:
