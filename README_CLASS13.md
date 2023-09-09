@@ -6,7 +6,7 @@
 
 2- Given two entities, one named Player and one named Team, if you wanted to create a one to many relationship with those entities which would be the one and which would be the many?
 
-- one : player , many : team
+- team can have many players, but player can play in only one team
 
 3- Explain one to many relationships to a non-technical friend.
 
