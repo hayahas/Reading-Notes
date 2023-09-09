@@ -23,5 +23,5 @@ _Italic_
 |  [Class 01](/README_CLASS01.md) | [Class 02](/README_CLASS02.md) | [Class 03](/README_CLASS03.md) | [Class 04](/README_CLASS04.md) |
 | ------- | ------ | ----- | ------ |
 | [Class 05](/README_CLASS05.md) |  [Class 06](/README_CLASS06.md) |  [Class 08](/README_CLASS08.md)  |  [Class 09](/README_CLASS09.md) 
-| [Stacks & Queues](/READSTACKANDQUEUE.md) |  [Class 11](/README_CLASS11.md) |  [Class 12](/READMECLASS12.md) |
+| [Stacks & Queues](/READSTACKANDQUEUE.md) |  [Class 11](/README_CLASS11.md) |  [Class 12](/READMECLASS12.md) | [Class 13](/README_CLASS13.md) |
 
