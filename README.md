@@ -24,6 +24,6 @@ _Italic_
 | ------- | ------ | ----- | ------ |
 | [Class 05](/README_CLASS05.md) |  [Class 06](/README_CLASS06.md) |  [Class 08](/README_CLASS08.md)  |  [Class 09](/README_CLASS09.md) 
 | [Stacks & Queues](/READSTACKANDQUEUE.md) |  [Class 11](/README_CLASS11.md) |  [Class 12](/READMECLASS12.md) | [Class 13](/README_CLASS13.md) |
-[Class 14](/README_CLASS14.md) |[Trees](/README_TREES.md) |
+[Class 14](/README_CLASS14.md) |[Trees](/README_TREES.md) | [Class 16](/README_CLASS16.md) |
 
 
