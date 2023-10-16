@@ -10,6 +10,8 @@
  -  Testing is a critical aspect of quality assurance
  -  It helps protect sensitive data and user information 
  - Lead to a better user experience
+
+   
   better user experience is the most important because a satisfied user is more likely to continue using the software and recommend it to others.
 
 3- Create an analogy for Tasks and the back stack. Have we used a similar system before? Explain.
