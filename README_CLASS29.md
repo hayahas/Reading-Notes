@@ -6,7 +6,7 @@
 
 2- Do Rooms have any similarities to JPA?
 
--Yess they both deal with database operations and provide object-relational mapping (ORM) capabilities, annotations, entity classes.
+- Yess they both deal with database operations and provide object-relational mapping (ORM) capabilities, annotations, entity classes.
 
 3- Describe a DAO in your own words
 
