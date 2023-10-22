@@ -2,8 +2,7 @@
 
 1- What database engine is Room wrapped around? Do you think this is a good choice? Why or why not?
 
-- 
-Room, a database library in Android, is typically wrapped around SQLite. SQLite is a widely used relational database management system, and it is a good choice for many Android applications because of light weight, ease of use and also integration with android.
+- Room, a database library in Android, is typically wrapped around SQLite. SQLite is a widely used relational database management system, and it is a good choice for many Android applications because of light weight, ease of use and also integration with android.
 
 2- Do Rooms have any similarities to JPA?
 
