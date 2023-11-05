@@ -7,7 +7,7 @@
 
 2 - What is the benefit of using GraphQL? Any downsides?
 
-- GraphQl has several benefits like Efficiency in Data Retrieval, Single Endpoint, Strongly Typed,Real-time Data, and Client-Specific Queries.
+- GraphQl has several benefits like Efficiency in Data Retrieval, Single Endpoint, Strongly Typed,Real-time Data, and Client-Specific Queries, also it has downsides like Complexity, Caching, Security Considerations and Learning Curve.
 
 3 - Describe “serverless” to a new 301 Code Fellows student.
 
