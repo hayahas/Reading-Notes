@@ -1,22 +1,5 @@
-# Reading-notes
-this website is to submit the pre work tasks for the advanced course of java - asac
-
-
-**Bold Text**
-
-_Italic_
-
-***Bold and Italic***
-
-> That is a quote
-
-~~This was mistake~~
-
-- [SQL ](/README%20_SQL.md)
-
-- [Terminal](/README_TERMINAL.md)
-
-- [The Growth Mindset](/README_MINDSET.md)
+# Reading-Notes
+This website is to submit the pre work tasks for the advanced course of Java-ASAC
 
 ## Reading : 
 
