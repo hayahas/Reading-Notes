@@ -10,6 +10,6 @@
 [Class 14](/README_CLASS14.md) |[Trees](/README_TREES.md) | [Class 16](/README_CLASS16.md) |[Class 17](/README_CLASS17.md) 
 | [Class 18](/README_CLASS18.md)  | [Class 19](/README_CLASS19.md)  |  [Class 26](/README_CLASS26.md)  |  [Class 27](/README_CLASS27.md)  | 
 |  [Class 28](/README_CLASS28.md)  |  [Class 29](/README_CLASS29.md) |  [Hash Tables](/README_HASHTABLES.md) |  [Class 31](/README_CLASS31.md) |
-| [Class 32](/README_CLASS32.md) |
+| [Class 32](/README_CLASS32.md) | [Class 33](/README_CLASS33.md) |
 
 
