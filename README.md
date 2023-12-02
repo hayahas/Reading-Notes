@@ -12,5 +12,6 @@
 |  [Class 28](/README_CLASS28.md)  |  [Class 29](/README_CLASS29.md) |  [Hash Tables](/README_HASHTABLES.md) |  [Class 31](/README_CLASS31.md) |
 | [Class 32](/README_CLASS32.md) | [Class 33](/README_CLASS33.md) | [Class 34](/README_CLASS34.md) | [Graphs](/README_GRAPHS.md) | 
 [Class 36](/README_CLASS36.md) | [Class 37](/README_CLASS37.md) | [Class 38](/README_CLASS38.md) | [Class 39](/README_CLASS39.md) |
+[Class 41](/README_CLASS41.md) |
 
 
